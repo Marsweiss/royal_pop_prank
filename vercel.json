@@ -1,0 +1,14 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "rewrites": [
+    {
+      "source": "/reviews/rolay-pop",
+      "destination": "/reviews/rolay-pop/index.html"
+    },
+    {
+      "source": "/reviews/rolay-pop/",
+      "destination": "/reviews/rolay-pop/index.html"
+    }
+  ]
+}

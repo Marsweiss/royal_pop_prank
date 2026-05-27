@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f8f5ee"/>
+  <rect x="48" y="48" width="1104" height="534" rx="20" fill="#151515"/>
+  <text x="96" y="138" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#ffffff">WatchWise Compare</text>
+  <text x="96" y="260" font-family="Arial, sans-serif" font-size="76" font-weight="800" fill="#ffffff">Rolay Pop Preise</text>
+  <text x="96" y="330" font-family="Arial, sans-serif" font-size="34" fill="#d8d0c3">Aktuelle Angebote, Preisverlauf und Händler-Check.</text>
+  <rect x="96" y="412" width="172" height="64" rx="10" fill="#ffffff"/>
+  <text x="182" y="454" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="800" fill="#151515">299 EUR</text>
+  <text x="294" y="453" font-family="Arial, sans-serif" font-size="26" fill="#d8d0c3">Bestpreis wird geprüft</text>
+  <path d="M810 70h164l34 296H776L810 70Z" fill="#123b5d"/>
+  <path d="M776 366h232l-34 194H810L776 366Z" fill="#123b5d"/>
+  <circle cx="892" cy="315" r="162" fill="#b9862d"/>
+  <circle cx="892" cy="315" r="132" fill="#101923"/>
+  <circle cx="892" cy="315" r="112" fill="#f8f4eb"/>
+  <path d="M892 315V226" stroke="#151515" stroke-width="10" stroke-linecap="round"/>
+  <path d="M892 315l68 38" stroke="#b9862d" stroke-width="10" stroke-linecap="round"/>
+  <text x="892" y="277" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#151515">ROLAY</text>
+  <text x="892" y="372" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="800" fill="#71624c">POP</text>
+</svg>
